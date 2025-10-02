@@ -71,7 +71,7 @@ public class SayApp {
 
     /**
      * Provides a list of available animals.
-     * Currently, the only available animals are Duck and Cow
+     * Currently, the only available animals are Duck and Cow and Dog
      *
      * @return A list of Animal objects.
      */
