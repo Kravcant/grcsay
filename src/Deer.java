@@ -5,13 +5,14 @@
  * 
  * Deer by https://www.asciiart.eu/animals/deer
  */
-public class Deer {
+class Deer implements Animal {
     
   /**
    * Returns the ASCII art representation of the deer.
    *
    * @return A string containing the ASCII art of the deer.
    */
+  @Override
   public String getAnimalArt() {
       return 
 "     \\   (             )\n" +
